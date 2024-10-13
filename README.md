@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Paul W.
-- 👀 I'm playin' video games.
+- 👋 Hi
+- 👀
 
 <!---
 PW310595/PW310595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
